@@ -4,5 +4,9 @@
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
+  },
+  "deploy": {
+    "org": "sambhavarora",
+    "app": "portfolio"
   }
 }
